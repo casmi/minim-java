@@ -33,24 +33,19 @@
     </build>
     <dependencies>
     	<dependency>
-    		<groupId>tritonus</groupId>
-    		<artifactId>tritonus_aos</artifactId>
-    		<version>0.3.6</version>
+    	    <groupId>com.googlecode.soundlibs</groupId>
+    	    <artifactId>tritonus-share</artifactId>
+    	    <version>0.3.7-2</version>
     	</dependency>
     	<dependency>
-    		<groupId>tritonus</groupId>
-    		<artifactId>tritonus_share</artifactId>
-    		<version>0.3.6</version>
+    	    <groupId>com.googlecode.soundlibs</groupId>
+    	    <artifactId>jlayer</artifactId>
+    	    <version>1.0.1-1</version>
     	</dependency>
     	<dependency>
-    		<groupId>javazoom</groupId>
-    		<artifactId>mp3spi</artifactId>
-    		<version>1.9.4</version>
-    	</dependency>
-    	<dependency>
-    		<groupId>javazoom</groupId>
-    		<artifactId>jl</artifactId>
-    		<version>1.0</version>
+    	    <groupId>com.googlecode.soundlibs</groupId>
+    	    <artifactId>mp3spi</artifactId>
+    	    <version>1.9.5-1</version>
     	</dependency>
     </dependencies>
     <url>https://github.com/casmi/minim-java</url>
